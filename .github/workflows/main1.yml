@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: SiyaaJhawar/Practice/.github/workflows/main1.yml@main
+    uses: SiyaaJhawar/Practice/.github/workflows/main.yml@main
 
   job2:
     runs-on: ubuntu-latest
